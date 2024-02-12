@@ -1,1 +1,2 @@
 ini adalah file note
+saya edit untuk mempraktekkan git fetch
