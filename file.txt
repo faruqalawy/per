@@ -1,1 +1,2 @@
 ini adalah sebuah file
+saya edit untuk mempraktekkan git pull
